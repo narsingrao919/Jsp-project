@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+
+body, h1, h2, p, ul {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #000000;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+h1 {
+  color: white;
+}
+h2 {
+  color: #400080;
+}
+p {
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+}
+
+footer {
+  background-color: white;
+  color: #000000;
+  text-align: center;
+  padding: 1rem;
+}
